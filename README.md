@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Atividade API React
 
 Projeto React + Vite para consumo da PokéAPI usando Fetch e Axios.
@@ -21,4 +20,4 @@ O projeto já está configurado para GitHub Pages com a base `/Atividade-api-REA
 
 <h3>Chama e xau #ODEIOREACT</h3>
 =======
->>>>>>> Stashed changes
+
